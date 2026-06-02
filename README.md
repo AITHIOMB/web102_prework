@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 https://www.loom.com/share/014c12b509ae4dc0b78fb9b9c654f962
-Loom | Free Screen & Video Recording Software | Loom - 1 June 2026 - Watch Video
+
 <div>
     <a href="https://www.loom.com/share/014c12b509ae4dc0b78fb9b9c654f962">
       <p>Loom | Free Screen & Video Recording Software | Loom - 1 June 2026 - Watch Video</p>
